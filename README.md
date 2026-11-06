@@ -1,4 +1,4 @@
 # startingit
 my first git repo
 <br>
-author - CHITRANSH TIWARI
+author - CHITRANSH TIWARI(mait)
